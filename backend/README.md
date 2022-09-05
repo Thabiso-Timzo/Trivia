@@ -27,7 +27,7 @@ pip install -r requirements.txt
 With Postgres running, create a `trivia` database:
 
 ```bash
-createdb trivia
+createbd trivia
 ```
 
 Populate the database using the `trivia.psql` file provided. From the `backend` folder in terminal run:
